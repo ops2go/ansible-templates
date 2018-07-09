@@ -1,0 +1,27 @@
+- name: task_description
+  aws_batch_job_definition:
+    state: present
+    job_definition_name: 
+    type: 
+    #profile: 
+    #readonly_root_filesystem: 
+    #mount_points: 
+    #image: 
+    #job_role_arn: 
+    #attempts: 
+    #user: 
+    #ec2_url: 
+    #job_definition_arn: 
+    #aws_secret_key: 
+    #aws_access_key: 
+    #security_token: 
+    #parameters: 
+    #validate_certs: yes
+    #region: 
+    #environment: 
+    #vcpus: 
+    #command: 
+    #volumes: 
+    #memory: 
+    #privileged: 
+    #ulimits: 

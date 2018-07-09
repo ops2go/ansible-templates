@@ -1,0 +1,44 @@
+- name: task_description
+  ec2:
+    image: None
+    instance_type: None
+    #kernel: 
+    #monitoring: 
+    #user_data: 
+    #termination_protection: 
+    #private_ip: 
+    #spot_type: one-time
+    #ec2_url: 
+    #id: 
+    #source_dest_check: True
+    #aws_secret_key: 
+    #spot_wait_timeout: 600
+    #group: 
+    #zone: 
+    #exact_count: 
+    #ebs_optimized: false
+    #state: present
+    #placement_group: 
+    #key_name: 
+    #ramdisk: 
+    #count_tag: 
+    #spot_launch_group: 
+    #vpc_subnet_id: 
+    #instance_ids: 
+    #tenancy: default
+    #profile: 
+    #assign_public_ip: 
+    #spot_price: 
+    #wait: no
+    #count: 1
+    #aws_access_key: 
+    #security_token: 
+    #instance_profile_name: 
+    #region: 
+    #network_interfaces: 
+    #instance_initiated_shutdown_behavior: stop
+    #wait_timeout: 300
+    #volumes: 
+    #instance_tags: 
+    #group_id: 
+    #validate_certs: yes

@@ -1,0 +1,14 @@
+- name: task_description
+  aws_batch_job_queue:
+    compute_environment_order: 
+    job_queue_name: 
+    priority: 
+    state: present
+    #aws_secret_key: 
+    #aws_access_key: 
+    #job_queue_state: ENABLED
+    #security_token: 
+    #region: 
+    #profile: 
+    #ec2_url: 
+    #validate_certs: yes

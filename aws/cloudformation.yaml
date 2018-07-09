@@ -1,0 +1,24 @@
+- name: task_description
+  cloudformation:
+    stack_name: 
+    #template_body: 
+    #template_format: json
+    #termination_protection: 
+    #ec2_url: 
+    #aws_secret_key: 
+    #role_arn: 
+    #stack_policy: 
+    #template_parameters: 
+    #state: present
+    #template: 
+    #create_changeset: 
+    #profile: 
+    #disable_rollback: false
+    #notification_arns: 
+    #tags: 
+    #template_url: 
+    #aws_access_key: 
+    #security_token: 
+    #changeset_name: 
+    #region: 
+    #validate_certs: yes

@@ -1,0 +1,14 @@
+- name: task_description
+  s3_website:
+    name: None
+    #redirect_all_requests: 
+    #profile: 
+    #suffix: index.html
+    #ec2_url: 
+    #aws_secret_key: 
+    #aws_access_key: 
+    #security_token: 
+    #region: 
+    #error_key: 
+    #state: present
+    #validate_certs: yes

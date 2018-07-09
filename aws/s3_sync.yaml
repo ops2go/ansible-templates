@@ -1,0 +1,20 @@
+- name: task_description
+  s3_sync:
+    file_root: 
+    bucket: 
+    mode: push
+    #aws_secret_key: 
+    #profile: 
+    #aws_access_key: 
+    #file_change_strategy: date_size
+    #security_token: 
+    #permission: 
+    #region: 
+    #mime_map: 
+    #ec2_url: 
+    #exclude: .*
+    #include: *
+    #validate_certs: yes
+    #cache_control: 
+    #key_prefix: 
+    #delete: 

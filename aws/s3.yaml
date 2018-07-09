@@ -1,0 +1,28 @@
+- name: task_description
+  aws_s3:
+    bucket: 
+    mode: 
+    #profile: 
+    #permission: private
+    #dest: 
+    #object: 
+    #prefix: 
+    #ec2_url: 
+    #marker: 
+    #ignore_nonexistent_bucket: 
+    #overwrite: always
+    #headers: 
+    #aws_secret_key: 
+    #src: 
+    #aws_access_key: 
+    #encrypt: True
+    #security_token: 
+    #rgw: 
+    #region: 
+    #retries: 
+    #max_keys: 1000
+    #version: 
+    #expiration: 600
+    #s3_url: 
+    #metadata: 
+    #validate_certs: yes

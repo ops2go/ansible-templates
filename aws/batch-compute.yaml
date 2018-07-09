@@ -1,0 +1,27 @@
+- name: task_description
+  aws_batch_compute_environment:
+    subnets: 
+    instance_types: 
+    maxv_cpus: 
+    security_group_ids: 
+    instance_role: 
+    minv_cpus: 
+    compute_resource_type: 
+    state: present
+    service_role: 
+    compute_environment_name: 
+    type: 
+    #profile: 
+    #tags: 
+    #bid_percentage: 
+    #image_id: 
+    #ec2_url: 
+    #aws_secret_key: 
+    #aws_access_key: 
+    #desiredv_cpus: 
+    #security_token: 
+    #validate_certs: yes
+    #region: 
+    #compute_environment_state: ENABLED
+    #spot_iam_fleet_role: 
+    #ec2_key_pair: 
