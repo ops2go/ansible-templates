@@ -1,0 +1,37 @@
+- name: task_description
+  iptables:
+    #tcp_flags: 
+    #comment: 
+    #log_prefix: 
+    #protocol: 
+    #chain: 
+    #out_interface: 
+    #limit_burst: 
+    #ctstate: 
+    #jump: 
+    #to_ports: 
+    #flush: 
+    #table: filter
+    #icmp_type: 
+    #to_destination: 
+    #uid_owner: 
+    #set_dscp_mark_class: 
+    #destination: 
+    #state: present
+    #source: 
+    #set_dscp_mark: 
+    #policy: 
+    #set_counters: 
+    #match: 
+    #goto: 
+    #fragment: 
+    #to_source: 
+    #syn: ignore
+    #in_interface: 
+    #source_port: 
+    #rule_num: 
+    #destination_port: 
+    #reject_with: 
+    #limit: 
+    #action: append
+    #ip_version: ipv4

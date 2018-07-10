@@ -1,0 +1,11 @@
+- name: task_description
+  snmp_facts:
+    host: 
+    version: 
+    #username: 
+    #level: 
+    #privacy: 
+    #community: 
+    #authkey: 
+    #integrity: 
+    #privkey: 

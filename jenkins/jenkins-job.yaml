@@ -1,0 +1,10 @@
+- name: task_description
+  jenkins_job:
+    name: 
+    #url: http://localhost:8080
+    #enabled: 
+    #state: present
+    #token: 
+    #user: 
+    #password: 
+    #config: 

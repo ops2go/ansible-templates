@@ -1,0 +1,11 @@
+- name: task_description
+  authorized_key:
+    user: 
+    key: 
+    #comment: None
+    #exclusive: no
+    #key_options: 
+    #state: present
+    #path: (homedir)+/.ssh/authorized_keys
+    #validate_certs: yes
+    #manage_dir: yes

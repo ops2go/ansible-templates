@@ -1,0 +1,13 @@
+- name: task_description
+  firewalld:
+    state: 
+    #zone: system-default(public)
+    #service: 
+    #masquerade: 
+    #immediate: 
+    #source: 
+    #permanent: 
+    #timeout: 
+    #interface: 
+    #port: 
+    #rich_rule: 

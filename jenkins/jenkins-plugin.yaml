@@ -1,0 +1,23 @@
+- name: task_description
+  jenkins_plugin:
+    name: 
+    #jenkins_home: /var/lib/jenkins
+    #url_password: 
+    #group: jenkins
+    #url: http://localhost:8080
+    #force_basic_auth: 
+    #url_username: 
+    #updates_url: https://updates.jenkins-ci.org
+    #http_agent: ansible-httpget
+    #with_dependencies: yes
+    #state: present
+    #version: 
+    #updates_expiration: 86400
+    #mode: 0664
+    #timeout: 30
+    #owner: jenkins
+    #force: 
+    #client_key: 
+    #validate_certs: True
+    #client_cert: 
+    #use_proxy: True

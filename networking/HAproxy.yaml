@@ -1,0 +1,13 @@
+- name: task_description
+  haproxy:
+    state: None
+    host: None
+    #drain: 
+    #socket: /var/run/haproxy.sock
+    #weight: 
+    #wait_interval: 5
+    #backend: auto-detected
+    #wait_retries: 25
+    #fail_on_not_found: 
+    #shutdown_sessions: 
+    #wait: 

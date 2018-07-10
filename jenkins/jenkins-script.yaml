@@ -1,0 +1,9 @@
+- name: task_description
+  jenkins_script:
+    script: None
+    #password: 
+    #user: 
+    #timeout: 10
+    #url: http://localhost:8080
+    #args: 
+    #validate_certs: True

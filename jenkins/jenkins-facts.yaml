@@ -1,0 +1,9 @@
+- name: task_description
+  jenkins_job_facts:
+    #url: http://localhost:8080
+    #token: 
+    #name: 
+    #color: 
+    #glob: 
+    #password: 
+    #user: 
