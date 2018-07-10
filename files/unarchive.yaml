@@ -1,0 +1,22 @@
+- name: task_description
+  unarchive:
+    src: 
+    dest: 
+    #seuser: 
+    #group: 
+    #remote_src: no
+    #selevel: s0
+    #list_files: no
+    #keep_newer: no
+    #decrypt: Yes
+    #setype: 
+    #creates: 
+    #unsafe_writes: 
+    #serole: 
+    #mode: 
+    #exclude: 
+    #owner: 
+    #extra_opts: 
+    #copy: yes
+    #validate_certs: yes
+    #attributes: None

@@ -1,0 +1,28 @@
+- name: task_description
+  get_url:
+    dest: 
+    url: 
+    #backup: no
+    #force: no
+    #url_username: 
+    #selevel: s0
+    #force_basic_auth: no
+    #sha256sum: 
+    #others: 
+    #owner: 
+    #client_key: 
+    #url_password: 
+    #unsafe_writes: 
+    #group: 
+    #use_proxy: yes
+    #checksum: 
+    #seuser: 
+    #setype: 
+    #headers: 
+    #serole: 
+    #mode: 
+    #timeout: 10
+    #attributes: None
+    #validate_certs: yes
+    #client_cert: 
+    #tmp_dest: 

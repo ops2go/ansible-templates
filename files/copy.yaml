@@ -1,0 +1,23 @@
+- name: task_description
+  copy:
+    dest: 
+    #src: 
+    #directory_mode: 
+    #force: yes
+    #remote_src: no
+    #checksum: 
+    #seuser: 
+    #decrypt: Yes
+    #setype: 
+    #group: 
+    #content: 
+    #unsafe_writes: 
+    #serole: 
+    #mode: 
+    #selevel: s0
+    #owner: 
+    #follow: no
+    #validate: None
+    #attributes: None
+    #backup: no
+    #local_follow: yes

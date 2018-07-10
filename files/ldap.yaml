@@ -1,0 +1,12 @@
+- name: task_description
+  ldap_entry:
+    dn: 
+    #objectClass: 
+    #start_tls: no
+    #bind_dn: 
+    #server_uri: ldapi:///
+    #state: present
+    #params: 
+    #bind_pw: 
+    #attributes: 
+    #validate_certs: yes

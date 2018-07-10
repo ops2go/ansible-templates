@@ -1,0 +1,7 @@
+- name: task_description
+  fetch:
+    dest: None
+    src: None
+    #validate_checksum: yes
+    #fail_on_missing: yes
+    #flat: 
