@@ -1,0 +1,30 @@
+- name: task_description
+  mongodb_parameter:
+    database: 
+    param: 
+    value: 
+    #login_port: 27017
+    #login_user: 
+    #login_host: localhost
+    #login_database: 
+    #ssl: 
+    #param_type: str
+    #login_password: 
+    #replica_set:
+    
+- name: task_description
+  mongodb_user:
+    name: None
+    database: 
+    #login_port: 27017
+    #update_password: always
+    #roles: readWrite
+    #login_user: 
+    #login_host: localhost
+    #login_database: 
+    #ssl_cert_reqs: CERT_REQUIRED
+    #ssl: 
+    #state: present
+    #login_password: 
+    #password: 
+    #replica_set: 

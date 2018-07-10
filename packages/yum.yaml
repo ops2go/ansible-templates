@@ -1,0 +1,19 @@
+- name: task_description
+  yum:
+    name: 
+    #update_cache: no
+    #exclude: 
+    #installroot: /
+    #allow_downgrade: no
+    #validate_certs: yes
+    #list: 
+    #disable_gpg_check: no
+    #conf_file: 
+    #update_only: no
+    #state: present
+    #disablerepo: 
+    #skip_broken: no
+    #enablerepo: 
+    #disable_plugin: 
+    #security: no
+    #enable_plugin: 

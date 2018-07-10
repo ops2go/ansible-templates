@@ -1,0 +1,18 @@
+- name: task_description
+  mail:
+    subject: 
+    #body: $subject
+    #username: 
+    #secure: try
+    #cc: 
+    #host: localhost
+    #password: 
+    #port: 25
+    #to: root
+    #from: root
+    #headers: 
+    #charset: utf-8
+    #bcc: 
+    #attach: 
+    #timeout: 20
+    #subtype: plain

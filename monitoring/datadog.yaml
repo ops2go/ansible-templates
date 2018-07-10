@@ -1,0 +1,36 @@
+- name: task_description
+  datadog_event:
+    title: None
+    text: None
+    app_key: 
+    api_key: None
+    #date_happened: now
+    #alert_type: info
+    #tags: 
+    #priority: normal
+    #host: {{ ansible_hostname }}
+    #aggregation_key: 
+    #validate_certs: yes
+
+- name: task_description
+  datadog_monitor:
+    app_key: 
+    name: 
+    state: 
+    api_key: 
+    #notify_audit: 
+    #timeout_h: 
+    #tags: None
+    #thresholds: {u'warning': 1, u'ok': 1, u'critical': 1}
+    #new_host_delay: 
+    #query: 
+    #message: 
+    #id: 
+    #locked: 
+    #no_data_timeframe: 2x timeframe for metric, 2 minutes for service
+    #silenced: 
+    #require_full_window: 
+    #notify_no_data: 
+    #renotify_interval: 
+    #escalation_message: 
+    #type: 

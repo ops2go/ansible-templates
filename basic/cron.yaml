@@ -1,0 +1,30 @@
+- name: task_description
+  cron:
+    #cron_file: 
+    #month: *
+    #disabled: no
+    #job: 
+    #special_time: 
+    #user: root
+    #insertafter: 
+    #insertbefore: 
+    #day: *
+    #minute: *
+    #name: 
+    #hour: *
+    #reboot: no
+    #state: present
+    #weekday: *
+    #env: no
+    #backup: no
+
+- name: task_description
+  cronvar:
+    name: 
+    #insertbefore: 
+    #cron_file: 
+    #value: 
+    #state: present
+    #user: root
+    #insertafter: 
+    #backup: no

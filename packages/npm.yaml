@@ -1,0 +1,11 @@
+- name: task_description
+  npm:
+    #executable: 
+    #name: 
+    #global: 
+    #ignore_scripts: 
+    #state: present
+    #production: 
+    #registry: 
+    #version: 
+    #path: 

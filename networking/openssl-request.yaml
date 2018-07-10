@@ -1,0 +1,36 @@
+- name: task_description
+  openssl_csr:
+    privatekey_path: 
+    path: 
+    #privatekey_passphrase: 
+    #state_or_province_name: 
+    #extended_key_usage_critical: 
+    #force: 
+    #subject_alt_name: 
+    #selevel: s0
+    #basic_constraints: 
+    #subject_alt_name_critical: 
+    #owner: 
+    #ocsp_must_staple: 
+    #key_usage: 
+    #common_name: 
+    #email_address: 
+    #digest: sha256
+    #subject: 
+    #key_usage_critical: 
+    #group: 
+    #extended_key_usage: 
+    #organizational_unit_name: 
+    #unsafe_writes: 
+    #locality_name: 
+    #seuser: 
+    #serole: 
+    #organization_name: 
+    #state: present
+    #version: 1
+    #mode: 
+    #basic_constraints_critical: 
+    #country_name: 
+    #attributes: None
+    #ocsp_must_staple_critical: 
+    #setype: 

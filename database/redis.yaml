@@ -1,0 +1,13 @@
+- name: task_description
+  redis:
+    command: 
+    #login_port: 6379
+    #name: 
+    #flush_mode: all
+    #master_host: 
+    #login_host: localhost
+    #master_port: 
+    #db: 
+    #value: 
+    #login_password: 
+    #slave_mode: slave

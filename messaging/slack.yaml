@@ -1,0 +1,14 @@
+- name: task_description
+  slack:
+    token: 
+    #username: Ansible
+    #domain: None
+    #attachments: None
+    #color: normal
+    #icon_url: 
+    #parse: None
+    #icon_emoji: None
+    #link_names: 1
+    #msg: None
+    #validate_certs: yes
+    #channel: None

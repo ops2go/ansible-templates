@@ -1,0 +1,54 @@
+- name: task_description
+  grafana_dashboard:
+    grafana_url: 
+    state: present
+    #grafana_user: admin
+    #org_id: 1
+    #grafana_api_key: 
+    #grafana_password: admin
+    #path: 
+    #message: 
+    #validate_certs: True
+    #slug: 
+    #overwrite:
+
+- name: task_description
+  grafana_datasource:
+    grafana_url: 
+    ds_type: 
+    name: 
+    url: 
+    #time_interval: 
+    #tls_client_key: 
+    #interval: 
+    #grafana_user: admin
+    #es_version: 5
+    #tsdb_version: 1
+    #is_default: 
+    #sslmode: 
+    #grafana_api_key: 
+    #password: 
+    #max_concurrent_shard_requests: 256
+    #tls_ca_cert: 
+    #basic_auth_password: 
+    #basic_auth_user: 
+    #database: 
+    #time_field: timestamp
+    #with_credentials: 
+    #org_id: 1
+    #tsdb_resolution: 1
+    #access: proxy
+    #state: present
+    #tls_client_cert: 
+    #grafana_password: admin
+    #validate_certs: True
+    #user:
+
+- name: task_description
+  grafana_plugin:
+    name: 
+    #state: present
+    #grafana_repo: 
+    #version: 
+    #grafana_plugin_url: 
+    #grafana_plugins_dir: 

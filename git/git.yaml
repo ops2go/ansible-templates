@@ -1,0 +1,76 @@
+- name: task_description
+  git:
+    dest: 
+    repo: 
+    #force: no
+    #track_submodules: no
+    #reference: 
+    #accept_hostkey: no
+    #clone: yes
+    #update: yes
+    #ssh_opts: None
+    #bare: no
+    #verify_commit: no
+    #archive: 
+    #recursive: yes
+    #executable: 
+    #remote: origin
+    #refspec: 
+    #umask: 
+    #depth: 
+    #version: HEAD
+    #key_file: None
+    
+- name: task_description
+  git_config:
+    #repo: 
+    #scope: 
+    #list_all: 
+    #name: 
+    #value:
+
+- name: task_description
+  github_deploy_key:
+    name: None
+    repo: None
+    owner: None
+    key: None
+    #read_only: True
+    #username: 
+    #force: 
+    #state: present
+    #token: 
+    #otp: 
+    #password:
+
+- name: task_description
+  github_hooks:
+    repo: 
+    oauthkey: 
+    user: 
+    action: 
+    #content_type: json
+    #validate_certs: yes
+    #hookurl:
+
+- name: task_description
+  github_key:
+    token: 
+    name: 
+    #pubkey: none
+    #force: yes
+    #state: present
+
+- name: task_description
+  github_deploy_key:
+    name: None
+    repo: None
+    owner: None
+    key: None
+    #read_only: True
+    #username: 
+    #force: 
+    #state: present
+    #token: 
+    #otp: 
+    #password: 

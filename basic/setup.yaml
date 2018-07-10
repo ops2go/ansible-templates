@@ -1,0 +1,6 @@
+- name: task_description
+  setup:
+    #filter: *
+    #gather_subset: all
+    #fact_path: /etc/ansible/facts.d
+    #gather_timeout: 10

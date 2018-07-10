@@ -1,0 +1,88 @@
+- name: task_description
+  mysql_db:
+    name: None
+    #ssl_key: 
+    #config_file: ~/.my.cnf
+    #encoding: 
+    #login_user: 
+    #login_host: localhost
+    #login_unix_socket: 
+    #login_password: 
+    #collation: 
+    #ssl_ca: 
+    #single_transaction: 
+    #login_port: 3306
+    #ssl_cert: 
+    #target: 
+    #state: present
+    #quick: True
+    #connect_timeout: 30
+
+- name: task_description
+  mysql_replication:
+    #master_ssl_cert: 
+    #master_auto_position: 
+    #config_file: ~/.my.cnf
+    #master_password: 
+    #master_host: 
+    #login_host: localhost
+    #login_password: 
+    #master_ssl_capath: 
+    #master_ssl_ca: 
+    #login_unix_socket: 
+    #master_connect_retry: 
+    #master_user: 
+    #master_port: 
+    #master_log_file: 
+    #master_ssl_cipher: 
+    #relay_log_file: 
+    #login_port: 3306
+    #ssl_cert: 
+    #master_ssl: 
+    #ssl_key: 
+    #ssl_ca: 
+    #master_ssl_key: 
+    #mode: getslave
+    #login_user: 
+    #master_log_pos: 
+    #connect_timeout: 30
+    #relay_log_pos:
+
+- name: task_description
+  mysql_user:
+    name: 
+    #login_port: 3306
+    #update_password: always
+    #ssl_cert: 
+    #config_file: ~/.my.cnf
+    #ssl_key: 
+    #encrypted: no
+    #login_host: localhost
+    #append_privs: no
+    #sql_log_bin: yes
+    #host_all: no
+    #ssl_ca: 
+    #login_password: 
+    #login_unix_socket: 
+    #state: present
+    #login_user: 
+    #host: localhost
+    #check_implicit_admin: no
+    #password: 
+    #connect_timeout: 30
+    #priv:
+
+- name: task_description
+  mysql_variables:
+    variable: 
+    #login_port: 3306
+    #ssl_cert: 
+    #config_file: ~/.my.cnf
+    #ssl_key: 
+    #login_user: 
+    #login_host: localhost
+    #value: 
+    #ssl_ca: 
+    #login_unix_socket: 
+    #login_password: 
+    #connect_timeout: 30

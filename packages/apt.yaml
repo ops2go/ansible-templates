@@ -1,0 +1,18 @@
+- name: task_description
+  apt:
+    #autoremove: no
+    #force: no
+    #force_apt_get: no
+    #update_cache: no
+    #only_upgrade: no
+    #deb: 
+    #cache_valid_time: 
+    #dpkg_options: force-confdef,force-confold
+    #upgrade: no
+    #name: 
+    #autoclean: no
+    #purge: no
+    #allow_unauthenticated: no
+    #state: present
+    #default_release: 
+    #install_recommends: 

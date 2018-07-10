@@ -1,0 +1,15 @@
+- name: task_description
+  pip:
+    #virtualenv: 
+    #virtualenv_site_packages: no
+    #virtualenv_command: virtualenv
+    #chdir: 
+    #requirements: 
+    #name: 
+    #virtualenv_python: 
+    #editable: no
+    #umask: 
+    #executable: 
+    #extra_args: 
+    #state: present
+    #version: 
