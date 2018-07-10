@@ -1,0 +1,30 @@
+- name: task_description
+  docker_service:
+    #files: 
+    #project_name: 
+    #project_src: 
+    #hostname_check: 
+    #recreate: smart
+    #tls_hostname: localhost
+    #docker_host: unix://var/run/docker.sock
+    #dependencies: True
+    #remove_images: 
+    #services: 
+    #cert_path: 
+    #pull: 
+    #tls: 
+    #definition: 
+    #scale: 
+    #nocache: 
+    #restarted: 
+    #ssl_version: 1.0
+    #state: present
+    #api_version: default provided by docker-py
+    #remove_volumes: 
+    #tls_verify: 
+    #stopped: 
+    #build: 
+    #timeout: 60
+    #debug: 
+    #cacert_path: 
+    #key_path: 

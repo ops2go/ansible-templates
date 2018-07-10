@@ -1,0 +1,29 @@
+- name: task_description
+  docker_image:
+    name: 
+    #archive_path: 
+    #cacert_path: 
+    #force: 
+    #timeout: 60
+    #repository: 
+    #tls_hostname: localhost
+    #docker_host: unix://var/run/docker.sock
+    #tag: latest
+    #cert_path: 
+    #path: 
+    #tls: 
+    #pull: True
+    #nocache: 
+    #container_limits: 
+    #http_timeout: 
+    #ssl_version: 1.0
+    #load_path: 
+    #use_tls: 
+    #state: present
+    #tls_verify: 
+    #key_path: 
+    #buildargs: 
+    #push: 
+    #rm: True
+    #dockerfile: Dockerfile
+    #api_version: default provided by docker-py

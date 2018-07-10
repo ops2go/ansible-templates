@@ -1,0 +1,21 @@
+- name: task_description
+  docker_network:
+    name: 
+    #tls: 
+    #cacert_path: 
+    #force: 
+    #tls_verify: 
+    #ssl_version: 1.0
+    #driver: bridge
+    #docker_host: unix://var/run/docker.sock
+    #ipam_options: 
+    #tls_hostname: localhost
+    #state: present
+    #driver_options: 
+    #connected: 
+    #key_path: 
+    #timeout: 60
+    #cert_path: 
+    #ipam_driver: 
+    #appends: 
+    #api_version: default provided by docker-py

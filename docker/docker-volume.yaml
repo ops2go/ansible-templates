@@ -1,0 +1,18 @@
+- name: task_description
+  docker_volume:
+    name: 
+    #cacert_path: 
+    #force: no
+    #labels: 
+    #driver: local
+    #tls_hostname: localhost
+    #docker_host: unix://var/run/docker.sock
+    #driver_options: 
+    #cert_path: 
+    #tls: 
+    #ssl_version: 1.0
+    #state: present
+    #tls_verify: 
+    #key_path: 
+    #timeout: 60
+    #api_version: default provided by docker-py

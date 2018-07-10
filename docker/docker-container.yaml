@@ -1,0 +1,84 @@
+- name: task_description
+  docker_container:
+    name: 
+    #tty: 
+    #dns_servers: 
+    #image: 
+    #labels: 
+    #docker_host: unix://var/run/docker.sock
+    #cpuset_cpus: 
+    #force_kill: 
+    #pid_mode: 
+    #networks: 
+    #cpu_period: 
+    #detach: True
+    #oom_score_adj: 
+    #state: started
+    #capabilities: 
+    #memory_swap: 
+    #mac_address: 
+    #volumes_from: 
+    #log_options: 
+    #cert_path: 
+    #recreate: 
+    #memory: 
+    #memory_swappiness: 
+    #network_mode: 
+    #tmpfs: 
+    #published_ports: 
+    #restart: 
+    #pull: 
+    #stop_signal: 
+    #devices: 
+    #uts: 
+    #tls_verify: 
+    #blkio_weight: 
+    #timeout: 60
+    #stop_timeout: 
+    #ulimits: 
+    #interactive: 
+    #links: 
+    #domainname: 
+    #ssl_version: 1.0
+    #command: 
+    #paused: 
+    #cacert_path: 
+    #dns_search_domains: 
+    #security_opts: 
+    #env_file: 
+    #cpu_quota: 
+    #read_only: 
+    #cpuset_mems: 
+    #hostname: 
+    #working_dir: 
+    #cleanup: 
+    #entrypoint: 
+    #key_path: 
+    #env: 
+    #keep_volumes: True
+    #ipc_mode: 
+    #privileged: 
+    #api_version: default provided by docker-py
+    #exposed_ports: 
+    #trust_image_content: 
+    #auto_remove: 
+    #log_driver: 
+    #oom_killer: 
+    #shm_size: 
+    #kill_signal: 
+    #tls_hostname: localhost
+    #volume_driver: none
+    #user: 
+    #groups: 
+    #userns_mode: 
+    #purge_networks: 
+    #tls: 
+    #ignore_image: 
+    #restart_policy: on-failure
+    #kernel_memory: 
+    #etc_hosts: 
+    #sysctls: 
+    #memory_reservation: 
+    #volumes: 
+    #cpu_shares: 
+    #restart_retries: 

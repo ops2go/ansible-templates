@@ -1,0 +1,19 @@
+- name: task_description
+  docker_login:
+    username: 
+    password: 
+    #cacert_path: 
+    #tls_hostname: localhost
+    #docker_host: unix://var/run/docker.sock
+    #tls_verify: 
+    #cert_path: 
+    #tls: 
+    #config_path: ~/.docker/config.json
+    #ssl_version: 1.0
+    #state: present
+    #key_path: 
+    #timeout: 60
+    #registry_url: https://index.docker.io/v1/
+    #email: None
+    #api_version: default provided by docker-py
+    #reauthorize: 
